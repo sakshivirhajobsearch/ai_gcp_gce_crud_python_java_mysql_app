@@ -1,0 +1,9 @@
+Flask
+flask-cors
+google-api-python-client
+google-auth
+python-dotenv
+scikit-learn
+pandas
+joblib
+mysql-connector-python
